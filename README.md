@@ -5,8 +5,8 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 - 🤝 I’m looking to collaborate on data science and deep learning projects. 
 - 
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasSergio" height=150>](https://github.com/DiasSergio)
-[<img src="https://github-readme-stats.vercel.app/api?username=DiasSergio" height=150 >](https://github.com/DiasSergio)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasSergio" height=200>](https://github.com/DiasSergio)
+[<img src="https://github-readme-stats.vercel.app/api?username=DiasSergio" height=200 >](https://github.com/DiasSergio)
 
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >](https://www.linkedin.com/in/s%C3%A9rgio-pereira-dias-790557161/) 
  [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/sergiopdias/)
