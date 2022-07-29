@@ -4,8 +4,8 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 - 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
 - 🤝 I’m looking to collaborate on data science and deep learning projects. 
 - 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasSergio" width=150>
-<img src="https://github-readme-stats.vercel.app/api?username=DiasSergio" width=150 >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasSergio" height=150>
+<img src="https://github-readme-stats.vercel.app/api?username=DiasSergio" height=150 >
 
 
 
