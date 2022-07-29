@@ -1,9 +1,10 @@
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
-- 
+### Welcome! 👋
+
+I am recent web-development bootcamp graduate looking for opportunities and collabaration in projects related to frontend and backend development.
+- 🔭 I’m currently studying by myself and working on personal projects.
+- 🌱 I’m currently learning more about backend development as I like it better and would love to have an opportunity into this area.
+- 🤝 I’m looking to collaborate on backend projects and imporve my skills. 
+
 
 [<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasSergio" height=200>](https://github.com/DiasSergio)
 [<img src="https://github-readme-stats.vercel.app/api?username=DiasSergio" height=200 >](https://github.com/DiasSergio)
