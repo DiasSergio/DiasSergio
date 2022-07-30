@@ -5,8 +5,7 @@ I am recent web-development bootcamp graduate looking for opportunities and coll
 - 🌱 I’m currently learning more about backend development as I like it better and would love to have an opportunity into this area.
 - 🤝 I’m looking to collaborate on backend projects and imporve my skills. 
 
-
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiasSergio" height=200>](https://github.com/DiasSergio)
+[![Top Langs](https://github-readme-stats.vercel.app/api/?username=DiasSergio)](https://github.com/DiasSergio)
 
 [<img src="https://github-readme-stats.vercel.app/api?username=DiasSergio" height=200 >](https://github.com/DiasSergio)
 
